@@ -11,4 +11,10 @@
     "image": "https://link-a-immagine/henkel.png",
     "textUrl": "https://raw.githubusercontent.com/<tuo-username>/cashback-data/main/testi/henkel.txt"
   }
+  {
+    "id": "c3",
+    "title": "Cashback 3",
+    "image": "https://link-a-immagine/henkel.png",
+    "textUrl": "https://raw.githubusercontent.com/<tuo-username>/cashback-data/main/testi/henkel.txt"
+  }
 ]
