@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c1",
+    "title": "Cashback Gillette",
+    "image": "https://link-a-immagine/gillette.png",
+    "textUrl": "https://raw.githubusercontent.com/<tuo-username>/cashback-data/main/testi/gillette.txt"
+  },
+  {
+    "id": "c2",
+    "title": "Cashback Henkel",
+    "image": "https://link-a-immagine/henkel.png",
+    "textUrl": "https://raw.githubusercontent.com/<tuo-username>/cashback-data/main/testi/henkel.txt"
+  }
+]
