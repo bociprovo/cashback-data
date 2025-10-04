@@ -1,9 +1,10 @@
 [
   {
-    "id": "c1",
-    "title": "Cashback Gillette",
-    "image": "https://link-a-immagine/gillette.png",
-    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/gillette.txt"
+  "id": "gillette_001",
+  "title": "Cashback Gillette",
+  "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/gillette.json",
+  "image": "https://example.com/banner_gillette.png",
+  "link": "https://example.com/concorso_gillette"
   },
   {
     "id": "c2",
