@@ -12,9 +12,9 @@
     "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/henkel.txt"
   },
   {
-    "id": "c3",
-    "title": "Cashback Moretti",
-    "image": "https://link-a-immagine/moretti.png",
-    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/moretti.txt"
+  "id": "3",
+  "title": "Cashback Moretti",
+  "image": "https://example.com/moretti.jpg",
+  "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/testi/moretti.txt"
   }
 ]
