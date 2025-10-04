@@ -24,5 +24,19 @@
   "title": "Cashback Moretti",
   "image": "https://example.com/moretti1.jpg",
   "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/testi/moretti.txt"
+  },
+  {
+  "id": "dixan_cashback_2025",
+  "title": "Dixan - Risparmia con Dixan",
+  "image": "https://www.donnad.it/wp-content/uploads/2025/09/dixan_cashback_header.jpg",
+  "link": "https://concorsi.donnad.it",
+  "dove_comprare": "Tutti i punti vendita delle insegne elencate nell'allegato 'A' del regolamento, facenti capo o associati alla Centrale Acquisti ESD Italia SRL e che espongono i materiali promozionali. Per gli acquisti online, validi solo i siti e-commerce afferenti a tali insegne che rilasciano Titolo d’acquisto parlante. Esclusi acquisti con Partita IVA e siti non affiliati.",
+  "articoli_coinvolti": "Tutti i prodotti a marchio Dixan commercializzati da Henkel Italia Srl – Divisione Consumer Brands. Prodotti bipacco/multipacco considerati come singolo prodotto. Prodotti devono essere nuovi e originali.",
+  "periodo_validita": "Dal 01/09/2025 al 01/11/2025",
+  "valore_rimborso": "50% del prezzo pagato, fino a massimo 10€ per ogni partecipante e per un unico scontrino, anche se la spesa è superiore alla soglia minima richiesta.",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA. Obbligatorio indicare IBAN corretto. Non sono ammessi libretti postali. L’IBAN deve essere intestato al partecipante e può essere utilizzato una sola volta.",
+  "modalita_adesione": "Acquistare almeno 2 prodotti Dixan validi con unico Documento d’Acquisto parlante entro il periodo promozionale, registrarsi o accedere a https://concorsi.donnad.it entro 5 giorni dalla data dello scontrino, fornire dati personali, IBAN e caricare la scansione/foto leggibile del Documento d’Acquisto parlante. Confermare il link ricevuto via e-mail entro 24h.",
+  "note": "Conservare l’originale del Documento d’Acquisto e i codici EAN fino al 31/12/2025. La partecipazione è valida solo per consumatori maggiorenni, residenti in Italia. Un solo rimborso per partecipante. Documentazione incompleta, non leggibile o tardiva comporta esclusione. Controlli e verifiche da parte della società promotrice per prevenire frodi. Rimborso erogato entro 150 giorni dalla richiesta.",
+  "contatti": "dataprotection_italy@henkel.com"
   }
 ]
