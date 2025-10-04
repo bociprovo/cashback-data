@@ -1,10 +1,17 @@
 [
   {
-  "id": "gillette_001",
-  "title": "Cashback Gillette",
-  "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/gillette.json",
+  "id": "venus_cashback_2025",
+  "title": "Gillette Venus+Satin Care - Venus Cashback",
   "image": "https://promozioni.pgperte.it/2024_0771_pg_venus_cb_01032025_30092025/img/header_home.jpg",
-  "link": "https://promozioni.pgperte.it/2024_0771_pg_venus_cb_01032025_30092025/"
+  "link": "https://promozioni.pgperte.it/2024_0771_pg_venus_cb_01032025_30092025/",
+  "dove_comprare": "Punti vendita fisici della GDO e Drugstore in Italia e Repubblica di San Marino, oppure e-commerce dei rivenditori italiani che emettono ricevuta fiscale. Sono esclusi farmacie, parafarmacie e portali come Amazon, Ebay, Privalia.",
+  "articoli_coinvolti": "Prodotti Gillette Venus + Satin Care (rasoi ricaricabili e prodotti per la cura della zona intima). Formati bipacco/multipacco considerati come singolo prodotto. Prodotti devono essere nuovi e originali di PROCTER & GAMBLE S.r.l.",
+  "periodo_validita": "Dal 01/03/2025 al 22/10/2025",
+  "valore_rimborso": "100% del prezzo pagato, fino a massimo 15€ per un unico prodotto per codice fiscale/IBAN.",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA. Obbligatorio indicare IBAN corretto. Non sono ammessi libretti postali.",
+  "modalita_adesione": "Acquistare almeno un prodotto valido, registrarsi o accedere a www.venuscashback.pgperte.it entro 15 giorni dall'acquisto, fornire dati personali e IBAN, caricare foto/scansione del Documento d’Acquisto parlante.",
+  "note": "Conservare l’originale del Documento d’Acquisto e codici EAN. Documento deve essere leggibile, senza cancellature o alterazioni. Solo un rimborso per codice fiscale e IBAN. Non sono validi acquisti tra privati. Registrazioni multiple o tentativi di frode annullano il rimborso. Il rimborso sarà erogato entro 50 giorni lavorativi dalla validazione.",
+  "contatti": "venuscashback@segreteriapromozioni.it"
   },
   {
     "id": "c2",
