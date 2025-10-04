@@ -66,5 +66,19 @@
   "modalita_adesione": "Acquistare almeno la combinazione minima di prodotti validi, registrarsi o accedere a www.gillettelabscashback.pgperte.it entro 15 giorni dall'acquisto, fornire dati personali, codice fiscale e IBAN, caricare foto/scansione leggibile del Documento d’Acquisto parlante.",
   "note": "Conservare l’originale del Documento d’Acquisto e codici EAN. Documento deve essere leggibile, senza cancellature o alterazioni. Solo un rimborso per codice fiscale e IBAN. Non sono validi acquisti tra privati. Registrazioni multiple o tentativi di frode annullano il rimborso. La Società può richiedere l'invio postale del Documento d’Acquisto originale e codici EAN entro 5 giorni lavorativi. Il rimborso sarà erogato entro 50 giorni lavorativi dalla validazione. L’iniziativa non è cumulabile con altre promozioni per gli stessi prodotti. La società si riserva di effettuare verifiche sui punti vendita e sugli acquisti online. Acquisti con sconti o promozioni saranno rimborsati solo al netto del prezzo effettivamente pagato.",
   "contatti": "gillettelabscashback@segreteriapromozioni.it"
+  },
+  {
+  "id": "tigota_cashback_2025",
+  "title": "Rimborso Elettrici Tigotà - Airwick",
+  "image": "https://rimborsoelettricitigota.airwick.it/assets/img/home.jpg",
+  "link": "https://www.airwick.it/concorsi/rimborso-elettrici-tigota",
+  "dove_comprare": "Punti vendita Tigotà in Italia che espongono il materiale pubblicitario. Sono esclusi acquisti online.",
+  "articoli_coinvolti": "Kit Diffusore Elettrico e Ricariche Airwick come indicato nel regolamento (vedi elenco EAN). Formati bipacco considerati come singolo prodotto. Prodotti devono essere nuovi e originali.",
+  "periodo_validita": "Dal 01/10/2025 al 31/10/2025",
+  "valore_rimborso": "Fino a un massimo di 8,98€ per l’acquisto di 1 Kit Diffusore Elettrico + 1 Ricarica Airwick, per codice fiscale/IBAN. Solo un rimborso per partecipante.",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA o su Carta Ricaricabile dotata di IBAN. Obbligatorio indicare IBAN corretto. Non sono ammessi libretti postali o PayPal.",
+  "modalita_adesione": "Acquistare 1 Kit Diffusore Elettrico + 1 Ricarica Airwick presso punti vendita Tigotà, registrarsi su www.airwick.it/concorsi/rimborso-elettrici-tigota entro 5 giorni dall’acquisto, fornire dati personali e IBAN, caricare foto/scansione del Documento d’Acquisto parlante.",
+  "note": "Conservare l’originale del Documento d’Acquisto e codici EAN. Documento deve essere leggibile, senza cancellature o alterazioni. Solo un rimborso per codice fiscale e IBAN. Non sono validi acquisti tra privati. Registrazioni multiple o tentativi di frode annullano il rimborso. Il rimborso sarà erogato entro 150 giorni dalla validazione.",
+  "contatti": "privacyoffice@reckitt.com"
   }
 ]
