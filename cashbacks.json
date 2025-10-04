@@ -3,12 +3,18 @@
     "id": "c1",
     "title": "Cashback Gillette",
     "image": "https://link-a-immagine/gillette.png",
-    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/testi/gillette.txt"
+    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/gillette.txt"
   },
   {
     "id": "c2",
     "title": "Cashback Henkel",
     "image": "https://link-a-immagine/henkel.png",
-    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/testi/henkel.txt"
+    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/henkel.txt"
+  },
+  {
+    "id": "c3",
+    "title": "Cashback Moretti",
+    "image": "https://link-a-immagine/moretti.png",
+    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/moretti.txt"
   }
 ]
