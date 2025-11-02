@@ -13,18 +13,7 @@
   "note": "Conservare l’originale del Documento d’Acquisto e codici EAN. Documento deve essere leggibile, senza cancellature o alterazioni. Solo un rimborso per codice fiscale e IBAN. Non sono validi acquisti tra privati. Registrazioni multiple o tentativi di frode annullano il rimborso. Il rimborso sarà erogato entro 50 giorni lavorativi dalla validazione.",
   "contatti": "venuscashback@segreteriapromozioni.it"
   },
-  {
-    "id": "c2",
-    "title": "Cashback Henkel",
-    "image": "https://link-a-immagine/henkel.png",
-    "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/main/testi/henkel.txt"
-  },
-  {
-  "id": "3",
-  "title": "Cashback Moretti",
-  "image": "https://example.com/moretti1.jpg",
-  "textUrl": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/testi/moretti.txt"
-  },
+  
   {
   "id": "dixan_cashback_2025",
   "title": "Dixan - Risparmia con Dixan",
@@ -108,5 +97,89 @@
   "modalita_adesione": "Acquistare 1 prodotto coinvolto con Documento d’Acquisto 'parlante' presso punto vendita aderente. Collegarsi a www.rimborsopantenetrattamento.pgperte.it entro 15 giorni dall’acquisto, accedere o registrarsi, inserire dati personali, codice fiscale e IBAN, caricare foto/scansione leggibile del Documento d’Acquisto. Conservare l’originale del documento e codici EAN fino al termine dei controlli.",
   "note": "Un solo rimborso per destinatario/codice fiscale/IBAN per l’intero periodo. Documenti contraffatti, duplicati o illeggibili non sono validi. Partecipazioni multiple o sospette/fraudolente annullano il rimborso. L’iniziativa non è cumulabile con altre promozioni sugli stessi prodotti. La Società si riserva di richiedere documentazione aggiuntiva, incluse copie dei codici EAN e documento d’identità, entro 5 giorni lavorativi dalla richiesta.",
   "contatti": "rimborsopantenetrattamento@segreteriapromozioni.it"
-  }
+  },
+  {
+  "id": "vileda_flexcatch_cashback_2025",
+  "title": "Vileda Flex&Catch Cashback",
+  "image": "https://www.cbflexecatch.vileda.it/img/header_home.jpg",
+  "link": "https://www.cbflexecatch.vileda.it",
+  "dove_comprare": "Punti vendita fisici in Italia (GDO, drugstore, fai‑da‑te) e acquisti online solo da rivenditori italiani che emettono ricevuta fiscale. Acquisto valido solo se i prodotti riportano lo sticker promozionale. :contentReference[oaicite:1]{index=1}",
+  "articoli_coinvolti": "Prodotto A (sistema): 1) FLEX&CATCH Sistema manico lungo + 1 ricambio (EAN 4023103257146) 2) FLEX&CATCH Sistema manico corto + 2 ricambi (EAN 4023103257122). Prodotto B (ricambio): 3) FLEX&CATCH Ricambi 5pz (EAN 4023103252509) 4) FLEX&CATCH Ricambi 10pz (EAN 4023103252486). Tutti i prodotti devono riportare lo sticker dell’iniziativa. :contentReference[oaicite:2]{index=2}",
+  "periodo_validita": "Dal 01/10/2025 al 31/07/2026. :contentReference[oaicite:3]{index=3}",
+  "valore_rimborso": "100% del prezzo del ricambio acquistato fino a un massimo di 9,99 €. Un solo rimborso per beneficiario (codice fiscale + IBAN) durante l’intera iniziativa. :contentReference[oaicite:4]{index=4}",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o su conto nell’area SEPA. Occorre indicare IBAN (non sono ammessi libretti postali). :contentReference[oaicite:5]{index=5}",
+  "modalita_adesione": "Acquistare in un unico documento d’acquisto “parlante” almeno 1 sistema + 1 ricambio provvisti di sticker. Conservare il documento e le etichette. Entro 5 giorni di calendario dalla data di acquisto collegarsi al sito, registrarsi, inserire dati personali, caricare la scansione/foto leggibile del documento d’acquisto e delle etichette. Confermare la partecipazione cliccando il link ricevuto via email entro 24h. :contentReference[oaicite:6]{index=6}",
+  "note": "Documento d’acquisto originale da conservare (non accettati duplicati, alterati, illegibili). Etichette/sticker devono essere integre e leggibili. Solo acquisti da rivenditori italiani. Ogni partecipante può richiedere un solo rimborso. Registrazioni multiple o frodi comportano esclusione. Conservare EAN, scontrino, etichette per eventuali controlli. :contentReference[oaicite:7]{index=7}",
+  "contatti": "Email: cbflexecatchvileda@segreteriapromozioni.it — Tel: 06 91810463. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+  "id": "scottex_cashback_esselunga_2025",
+  "title": "Cashback Scottex per Esselunga 2025",
+  "image": "https://www.cashbackscottexottobre.it/img/header_home.jpg",
+  "link": "https://www.cashbackscottexottobre.it",
+  "dove_comprare": "Peni‑vendita fisici ad insegna Esselunga in Italia (insegne che espongono il materiale promozionale) oppure online su spesaonline.esselunga.it o app Esselunga OnLine. :contentReference[oaicite:2]{index=2}",
+  "articoli_coinvolti": "Prodotti coinvolti (a scelta) : • Scottonelle Carta igienica 18 pz (EAN: 5029053006109) • Amore di casa 6 pz (EAN: 5029053583501) :contentReference[oaicite:3]{index=3}",
+  "periodo_validita": "Dal 23/10/2025 al 06/11/2025. Termine ultimo per richiedere il rimborso entro 5 giorni di calendario dalla data di acquisto. :contentReference[oaicite:4]{index=4}",
+  "valore_rimborso": "Rimborso fisso di 10,00 € purché l’acquisto sia effettuato in un unico scontrino “parlante” per almeno 15,00 € di prodotti coinvolti. Ogni partecipante può richiedere un solo rimborso (uno stesso CF e uno stesso IBAN). :contentReference[oaicite:5]{index=5}",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o conto nell’area SEPA; oppure carta ricaricabile dotata di IBAN (non sono ammessi libretti postali). È responsabilità del partecipante indicare correttamente IBAN. :contentReference[oaicite:6]{index=6}",
+  "modalita_adesione": "1. Acquistare i prodotti validi (vedi sopra) in un unico documento d’acquisto durante il periodo indicato. 2. Conservare il documento d’acquisto originale “parlante”. 3. Entro 5 giorni dalla data di acquisto collegarsi al sito dedicato, registrarsi con dati anagrafici, CF, IBAN, l’importo, numero documento, caricare foto/scansione leggibile del documento d’acquisto (fronte/retro) e confermare tramite link che si riceve via email entro 24h. :contentReference[oaicite:7]{index=7}",
+  "note": "Il documento d’acquisto deve essere integro, originale, non alterato, riportare prodotti acquistati nominativamente. Non sono validi acquisti da rivenditori professionali (P.IVA), né da dipendenti/consulenti della promotrice. Ogni partecipante può partecipare una sola volta. Conservare anche i codici a barre (EAN) dei prodotti per eventuali controlli. L’iniziativa non è cumulabile con altre promozioni sull’identico prodotto. :contentReference[oaicite:8]{index=8}",
+  "contatti": "Email: cashbacksl@segreteriapromozioni.it — Tel: 06 91810460 (dal lunedì al venerdì 09:00‑12:00 / 14:30‑17:00) :contentReference[oaicite:9]{index=9}"
+  },
+  {
+  "id": "danacol_cashback_esselunga_2025",
+  "title": "Danacol Cashback in Esselunga",
+  "image": "https://www.concorsi.vividanone.it/danacol-cashback-in-esselunga/img/header_home.jpg",
+  "link": "https://www.concorsi.vividanone.it/danacol-cashback-in-esselunga/",
+  "dove_comprare": "Punti vendita fisici Esselunga in Italia e, in alternativa, tramite e‑commerce sul sito spesaonline.esselunga.it o App Esselunga OnLine. :contentReference[oaicite:2]{index=2}",
+  "articoli_coinvolti": "Prodotti promozionati: Danacol 8×100 g e Danacol 4×100 g, a scelta tra i gusti disponibili e secondo disponibilità. :contentReference[oaicite:3]{index=3}",
+  "periodo_validita": "Dal 23/10/2025 al 06/11/2025. :contentReference[oaicite:4]{index=4}",
+  "valore_rimborso": "100% del prezzo pagato per due confezioni promozionate acquistate in un unico documento d’acquisto. :contentReference[oaicite:5]{index=5}",
+  "modalita_rimborso": "Bonifico su conto corrente italiano oppure carta ricaricabile dotata di IBAN (non sono ammessi libretti postali). :contentReference[oaicite:6]{index=6}",
+  "modalita_adesione": "1) Acquistare almeno 2 confezioni promozionate in un unico Documento d’Acquisto parlante nel periodo indicato. 2) Entro e non oltre 5 giorni di calendario dalla data di acquisto collegarsi al sito indicato, registrarsi o accedere, inserire i propri dati (anagrafici, codice fiscale, IBAN) e caricare foto/scansione leggibile del Documento d’Acquisto. 3) Verificare e confermare tramite link ricevuto via e‑mail. :contentReference[oaicite:7]{index=7}",
+  "note": "Documento d’acquisto originale, integro, leggibile, che riporti nome del prodotto o codice EAN. Solo acquisti da consumatore (non professionali/P.IVA). Ogni partecipante può richiedere un solo rimborso. Conservare scontrino e codici a barre per eventuali controlli. L’iniziativa non è cumulabile con altre iniziative identiche. :contentReference[oaicite:8]{index=8}",
+  "contatti": "Email: concorsidanone@promosuite.it (indicazione reperita in fonti secondarie). :contentReference[oaicite:9]{index=9}"
+  },
+  {
+  "id": "ambipur_regala_lenor_2025_26",
+  "title": "Ambipur Regala Lenor",
+  "image": "https://www.promozioni.pgperte.it/2025_0510p_procter_cb_01092025_30062026/img/header_home.jpg",
+  "link": "https://www.promozioni.pgperte.it/2025_0510p_procter_cb_01092025_30062026/",
+  "dove_comprare": "Punti vendita fisici in Italia e/o e‑commerce italiani che emettono ricevuta fiscale (controllare che i prodotti siano quelli partecipanti all’iniziativa).",
+  "articoli_coinvolti": "Acquistare 3 prodotti nella combinazione: 2 prodotti Ambipur + 1 ammorbidente Lenor. Tutti i prodotti devono essere nuovi e originali di Procter & Gamble. :contentReference[oaicite:3]{index=3}",
+  "periodo_validita": "Dal 01/09/2025 al 30/06/2026. :contentReference[oaicite:4]{index=4}",
+  "valore_rimborso": "Un solo rimborso fino a un massimo di € 9,99 per partecipante. :contentReference[oaicite:5]{index=5}",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o conto SEPA. Occorre indicare IBAN corretto. Non sono ammessi libretti postali. :contentReference[oaicite:6]{index=6}",
+  "modalita_adesione": "1. Acquistare la combinazione valida (2 Ambipur + 1 Lenor) in un unico documento d'acquisto parlante. 2. Entro 15 giorni di calendario dalla data di acquisto registrarsi o accedere al sito, inserire dati anagrafici, codice fiscale, IBAN, caricare foto/scansione leggibile del documento d’acquisto. 3. Conservare l’originale del documento e attendere la verifica. :contentReference[oaicite:7]{index=7}",
+  "note": "Documento d’acquisto originale, leggibile, integro, senza cancellazioni o alterazioni. Solo un rimborso per codice fiscale/IBAN. Conservare etichette/prodotti per eventuali controlli. Acquisti da rivenditori italiani. Registrazioni multiple o tentativi di frode comportano esclusione. :contentReference[oaicite:8]{index=8}",
+  "contatti": "Email: ambipurregalalenor@segreteriapromozioni.it — Tel: 06 91810424 (lun‑ven 09:00‑12:00 / 14:00‑17:00) :contentReference[oaicite:9]{index=9}"
+  },
+  {
+  "id": "loreal_revitalift_2025",
+  "title": "CON L’ORÉAL REVITALIFT LA TUA BELLEZZA È PREMIATA",
+  "image": "",
+  "link": "https://www.loreal-paris.it/",
+  "dove_comprare": "Punti vendita fisici delle insegne Acqua & Sapone e La Saponeria presenti in Italia (esclusi e-commerce).",
+  "articoli_coinvolti": "Prodotti della gamma Revitalift di L’Oréal Paris (elenco codici EAN specifici inclusi nel regolamento). Formati principalmente da creme e sieri da 15ml a 50ml.",
+  "periodo_validita": "Dal 20 ottobre 2025 al 8 novembre 2025.",
+  "valore_rimborso": "Buono spesa digitale da 10€ (IVA inclusa), utilizzabile per l'acquisto di prodotti Revitalift in punti vendita Acqua & Sapone e La Saponeria aderenti entro il 20 febbraio 2026.",
+  "modalita_rimborso": "Il premio sarà inviato tramite link digitale (WhatsApp o SMS) entro 5 giorni lavorativi dalla convalida della richiesta.",
+  "modalita_adesione": "Acquistare 1 siero o crema Revitalift presso i punti vendita aderenti. Entro 5 giorni dall’acquisto inviare via WhatsApp al numero 320 204 1945 un messaggio unico contenente la foto dello scontrino in formato JPG e i dati dello scontrino (data, ora, importo totale, numero scontrino) formattati secondo le istruzioni del regolamento.",
+  "note": "La partecipazione è riservata a maggiorenni residenti o domiciliati in Italia. Il buono non è convertibile in denaro, non dà resto, non è cedibile o vendibile. Se lo scontrino contiene più prodotti, si ha diritto a un solo premio. Conservare l'originale dello scontrino fino al ricevimento del premio. Eventuali irregolarità o mancata corrispondenza dei dati invalidano la richiesta. Il regolamento completo è consultabile sul sito ufficiale e disponibile gratuitamente su richiesta via email.",
+  "contatti": "Email: lorealparis@it.oaccare.com, DPO: dpoitalia@loreal.com, Telefono DPO: 02 97066613"
+},
+  {
+  "id": "alpro_alproccino_brioche_2025",
+  "title": "Cashback Alproccino e Brioche",
+  "image": "",
+  "link": "https://www.concorsi.vividanone.it/cashback-alproccino-e-brioche/",
+  "dove_comprare": "Presso esercenti bar/coffee‑bar aderenti al network Alproccino in Italia e Repubblica di San Marino. Acquisto esclusivamente in questi punti vendita. :contentReference[oaicite:1]{index=1}",
+  "articoli_coinvolti": "Una colazione composta da: 1 cappuccino con bevanda vegetale Alpro (“Alproccino”) + 1 brioche o altro prodotto dolciario da forno fra quelli disponibili nel punto vendita aderente. :contentReference[oaicite:2]{index=2}",
+  "periodo_validita": "Dal 15/10/2025 al 15/11/2025 per l’acquisto. Il caricamento del documento d’acquisto deve avvenire entro 5 giorni di calendario dall’acquisto. :contentReference[oaicite:3]{index=3}",
+  "valore_rimborso": "Fino a un massimo di € 3,00 per partecipante (un solo rimborso per codice fiscale/IBAN). :contentReference[oaicite:4]{index=4}",
+  "modalita_rimborso": "Bonifico su conto corrente italiano oppure carta ricaricabile dotata di IBAN (non accettati libretti postali). :contentReference[oaicite:5]{index=5}",
+  "modalita_adesione": "1) Acquistare la colazione promozionata in un punto vendita aderente e ottenere la cartolina con codice univoco. :contentReference[oaicite:6]{index=6}\n2) Conservare lo scontrino/documento d’acquisto. :contentReference[oaicite:7]{index=7}\n3) Entro 5 giorni di calendario dalla data di acquisto, collegarsi al sito dedicato, registrarsi (dati anagrafici, codice fiscale, IBAN), caricare foto/scansione dello scontrino in formato JPG, PNG o PDF, inserire il codice univoco e inviare la richiesta. :contentReference[oaicite:8]{index=8}",
+  "note": "Destinatari: persone fisiche maggiorenni residenti/domiciliati in Italia. Sono esclusi i minori, i collaboratori/dipendenti del promotore e operatori dei punti vendita. Non sono accettati acquisti con partita IVA. Ogni partecipante può richiedere un solo rimborso. Il documento d’acquisto deve essere originale, integro, leggibile e riferito all’acquisto del prodotto promozionato. Non cumulabile con altre iniziative promozionali sui medesimi prodotti. Il rimborso sarà erogato entro 6 mesi dalla data di fine dell’iniziativa. :contentReference[oaicite:9]{index=9}",
+  "contatti": "Email: concorsidanone@promosuite.it :contentReference[oaicite:10]{index=10}"
+}
 ]
