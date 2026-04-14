@@ -209,5 +209,19 @@
   "modalita_adesione": "Acquistare 1 prodotto Coccolino Botanical Perfume valido in un punto vendita aderente e conservare lo scontrino parlante. Entro 7 giorni dall’acquisto registrarsi sul sito ufficiale, inserire i dati richiesti (anagrafici e IBAN) e caricare la foto/scansione dello scontrino per richiedere il rimborso.",
   "note": "Un solo rimborso per persona (codice fiscale/IBAN) durante tutta l’iniziativa. Il rimborso è calcolato sull’importo effettivamente pagato (al netto di sconti). Documento d’acquisto obbligatoriamente integro, leggibile e parlante. Non sono validi acquisti online. Non cumulabile con altre promozioni sugli stessi prodotti. È necessario conservare lo scontrino originale per eventuali controlli. :contentReference[oaicite:0]{index=0}",
   "contatti": "Email: info@coccolinobotanicalperfumeprovamigratis.it — Numero verde: 800.800.121"
+},
+  {
+  "id": "airwick_armonia_istantanea_2026",
+  "title": "Air Wick Rimborso Armonia Istantanea",
+  "image": "https://rimborsoarmoniaistantanea.airwick.it/assets/img/home.png",
+  "link": "https://rimborsoarmoniaistantanea.airwick.it/",
+  "dove_comprare": "Punti vendita fisici Acqua & Sapone e La Saponeria aderenti in Italia che espongono il materiale promozionale. Sono esclusi gli acquisti online.",
+  "articoli_coinvolti": "1 diffusore Air Wick Armonia Istantanea + 1 altro prodotto Air Wick a scelta acquistati nello stesso scontrino.",
+  "periodo_validita": "Dal 07/04/2026 al 29/04/2026. Richiesta rimborso entro 5 giorni di calendario dalla data di acquisto.",
+  "valore_rimborso": "100% del prezzo del diffusore Armonia Istantanea fino a un massimo di 9,99€ per partecipante.",
+  "modalita_rimborso": "Bonifico su conto corrente con IBAN (Italia o area SEPA).",
+  "modalita_adesione": "Acquistare in un unico scontrino almeno 1 diffusore Armonia Istantanea e 1 altro prodotto Air Wick. Entro 5 giorni registrarsi sul sito dedicato, inserire i dati richiesti (anagrafici e IBAN) e caricare la foto/scansione dello scontrino parlante per richiedere il rimborso.",
+  "note": "Un solo rimborso per persona (codice fiscale/IBAN) per tutta la durata dell’iniziativa. Lo scontrino deve essere unico, integro, leggibile e riportare chiaramente i prodotti acquistati. Il rimborso è calcolato sull’importo effettivamente pagato (al netto di eventuali sconti). Non sono validi acquisti online o tra privati. Ogni scontrino può essere utilizzato una sola volta. È necessario conservare lo scontrino originale per eventuali controlli. In caso di dati errati, incompleti o invio oltre i termini, la richiesta viene rifiutata. :contentReference[oaicite:0]{index=0}",
+  "contatti": "Email: airwickrimborsoaes@segreteriapromozioni.it"
 }
 ]
