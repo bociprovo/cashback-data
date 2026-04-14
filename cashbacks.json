@@ -223,5 +223,19 @@
   "modalita_adesione": "Acquistare in un unico scontrino almeno 1 diffusore Armonia Istantanea e 1 altro prodotto Air Wick. Entro 5 giorni registrarsi sul sito dedicato, inserire i dati richiesti (anagrafici e IBAN) e caricare la foto/scansione dello scontrino parlante per richiedere il rimborso.",
   "note": "Un solo rimborso per persona (codice fiscale/IBAN) per tutta la durata dell’iniziativa. Lo scontrino deve essere unico, integro, leggibile e riportare chiaramente i prodotti acquistati. Il rimborso è calcolato sull’importo effettivamente pagato (al netto di eventuali sconti). Non sono validi acquisti online o tra privati. Ogni scontrino può essere utilizzato una sola volta. È necessario conservare lo scontrino originale per eventuali controlli. In caso di dati errati, incompleti o invio oltre i termini, la richiesta viene rifiutata. :contentReference[oaicite:0]{index=0}",
   "contatti": "Email: airwickrimborsoaes@segreteriapromozioni.it"
+},
+  {
+  "id": "ambipur_essenze_italia_cashback_2026",
+  "title": "Ambipur Rimborsa Essenze d’Italia",
+  "image": "https://promozioni.pgperte.it/2026_0220p_procter_cb_ambipur_01042026_30092026/img/header_home.jpg",
+  "link": "https://promozioni.pgperte.it/2026_0220p_procter_cb_ambipur_01042026_30092026/",
+  "dove_comprare": "Punti vendita fisici in Italia e Repubblica di San Marino che espongono il materiale promozionale. Sono esclusi gli acquisti online.",
+  "articoli_coinvolti": "Prodotti Ambipur linea “Essenze d’Italia” (profumatori per ambiente e bagno) indicati nel regolamento. Prodotti devono essere nuovi e originali di Procter & Gamble.",
+  "periodo_validita": "Dal 01/04/2026 al 30/09/2026. Richiesta rimborso entro 7 giorni di calendario dalla data di acquisto.",
+  "valore_rimborso": "100% del prezzo pagato per 1 prodotto, fino a un massimo di 10,00€ per partecipante (codice fiscale/IBAN).",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA. Obbligatorio indicare IBAN corretto (non ammessi libretti postali). Per richiedere il rimborso: https://promozioni.pgperte.it/2026_0220p_procter_cb_ambipur_01042026_30092026/",
+  "modalita_adesione": "Acquistare 1 prodotto Ambipur Essenze d’Italia in un punto vendita aderente. Entro 7 giorni dalla data di acquisto registrarsi/accedere al sito, inserire i dati personali e IBAN e caricare la foto/scansione leggibile del Documento d’Acquisto parlante.",
+  "note": "Un solo rimborso per partecipante e per IBAN. Documento d’acquisto obbligatoriamente integro, leggibile e non alterato. Non sono validi acquisti online o tra privati. È necessario conservare lo scontrino originale per eventuali controlli. Partecipazioni multiple o sospette comportano esclusione. Rimborso erogato dopo verifica dei dati.",
+  "contatti": "Email: ambipurrimborsaessenze@segreteriapromozioni.it – Tel: 06 91810424 (lun-ven 9:00-12:00 / 14:00-17:00)"
 }
 ]
