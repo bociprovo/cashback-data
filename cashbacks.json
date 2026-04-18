@@ -47,21 +47,21 @@
   "categoria": "cura persona",
   "tag": ["cashback", "50%", "skincare", "mixa", "novità"]
 },
-  {
-  "id": "concorsidelbucato_festa_bucato_inverno_2026",
-  "title": "Festa del Bucato Inverno 2026 - Cashback",
-  "image": "https://concorsidelbucato.it/assets/img/lavatrice.png",
-  "link": "https://concorsidelbucato.it/",
+ {
+  "id": "festa_del_bucato_primavera_2026",
+  "title": "Festa del Bucato Primavera - Cashback",
+  "image": "https://github.com/bociprovo/cashback-data/blob/50b025f08ddb7ae79eba3f1aec8ea624769794d1/img/solecalgon.png",
+  "link": "https://www.concorsidelbucato.it",
   "categoria": "cura casa",
-  "tag": ["cashback", "bucato", "detersivi", "calgon", "woolite", "sole"],
-  "dove_comprare": "Punti vendita GDO e Drugstore aderenti in Italia e Repubblica di San Marino (anche e-commerce di rivenditori italiani).",
-  "articoli_coinvolti": "Acquisto di almeno 1 anticalcare Calgon + 1 prodotto a scelta tra Woolite o Sole nello stesso scontrino.",
-  "periodo_validita": "Dal 15/01/2026 al 28/02/2026. Richiesta entro 5 giorni dalla data di acquisto.",
-  "valore_rimborso": "Rimborso del prezzo dell’anticalcare Calgon acquistato, fino a un massimo di 13,99€.",
-  "modalita_rimborso": "Bonifico su conto corrente con IBAN intestato o cointestato al richiedente.",
-  "modalita_adesione": "Acquistare i prodotti richiesti in un unico scontrino. Entro 5 giorni registrarsi sul sito, inserire i dati richiesti e caricare la foto dello scontrino parlante.",
-  "note": "Un solo rimborso per persona. Documento d’acquisto obbligatoriamente integro e leggibile. Non validi acquisti su marketplace come Amazon, eBay, Groupon. Conservare lo scontrino originale per eventuali controlli.",
-  "contatti": "Email: festadelbucatoinverno@segreteriapromozioni.it"
+  "tag": ["bucato", "detersivi", "cashback", "reckitt"],
+  "dove_comprare": "Punti vendita fisici della GDO e Drugstore in Italia e Repubblica di San Marino riconoscibili dal materiale promozionale e relativi e-commerce. Sono esclusi Amazon, Ebay, Privalia, Groupon e siti esteri. L’elenco dettagliato dei prodotti/punti vendita è consultabile nel regolamento.",
+  "articoli_coinvolti": "Prodotti a marchio Calgon, Woolite e Sole indicati nell’elenco A del regolamento. Necessario acquistare almeno 1 prodotto Calgon + 1 prodotto a scelta tra Woolite e Sole nello stesso scontrino.",
+  "periodo_validita": "Dal 16/04/2026 al 30/06/2026. Richiesta rimborso entro 5 giorni di calendario dalla data di acquisto.",
+  "valore_rimborso": "100% del prezzo del prodotto Calgon acquistato, fino a un massimo di 15,49€.",
+  "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA intestato o cointestato al richiedente oppure carta ricaricabile con IBAN (escluso PayPal).",
+  "modalita_adesione": "Acquistare almeno 1 prodotto Calgon + 1 prodotto Woolite o Sole nello stesso scontrino parlante. Entro 5 giorni collegarsi al sito, registrarsi, inserire dati personali e IBAN, caricare la foto/scansione leggibile dello scontrino e confermare la partecipazione tramite link ricevuto via email entro 24 ore.",
+  "note": "Un solo rimborso per persona/codice fiscale/IBAN per tutta la durata dell’iniziativa. Documento d’acquisto obbligatoriamente integro, leggibile e parlante. Non validi acquisti tra privati o con partita IVA. Conservare scontrino originale ed EAN dei prodotti per eventuali controlli. Rimborso erogato entro circa 150 giorni dalla validazione.",
+  "contatti": "Email: tramite form su sito ufficiale – Privacy: privacyoffice@reckitt.com"
 },
   {
     "id": "spuma_tripacchi_cashback_2026",
