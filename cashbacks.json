@@ -427,7 +427,7 @@
   "modalita_rimborso": "Bonifico su conto corrente con IBAN intestato o cointestato al richiedente. Un IBAN utilizzabile una sola volta. Per partecipare: https://concorsi.vividanone.it/cashback-da-urlo-2026/",
   "modalita_adesione": "Acquistare almeno 2 prodotti Danone Skyr nello stesso scontrino. Entro 5 giorni collegarsi al sito, registrarsi o accedere, inserire dati personali, codice fiscale e IBAN, caricare foto/scansione leggibile dello scontrino parlante e completare la richiesta.",
   "note": "Partecipazione riservata a maggiorenni residenti/domiciliati in Italia. Non validi acquisti con partita IVA né da parte di rivenditori o dipendenti coinvolti nell’iniziativa. Un solo rimborso per persona/codice fiscale/IBAN. Documento d’acquisto obbligatoriamente integro, leggibile e parlante. Conservare lo scontrino originale per eventuali controlli. Richieste incomplete, illeggibili o fuori termine non saranno accettate.",
-  "contatti": "Email: concorsi@sdm.to"
+  "contatti": "Email: concorsi@sdm.to",
   "categoria": "cibo e bevande",
   "tag": ["yogurt", "skyr", "proteico", "cashback", "latticini"]
 },
@@ -459,7 +459,7 @@
   "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA intestato o cointestato al richiedente, obbligatorio indicare IBAN corretto. Non sono ammessi libretti postali.",
   "modalita_adesione": "Acquistare 1 prodotto coinvolto con Documento d’Acquisto 'parlante' presso punto vendita aderente. Collegarsi a www.rimborsopantenetrattamento.pgperte.it entro 15 giorni dall’acquisto, accedere o registrarsi, inserire dati personali, codice fiscale e IBAN, caricare foto/scansione leggibile del Documento d’Acquisto. Conservare l’originale del documento e codici EAN fino al termine dei controlli.",
   "note": "Un solo rimborso per destinatario/codice fiscale/IBAN per l’intero periodo. Documenti contraffatti, duplicati o illeggibili non sono validi. Partecipazioni multiple o sospette/fraudolente annullano il rimborso. L’iniziativa non è cumulabile con altre promozioni sugli stessi prodotti. La Società si riserva di richiedere documentazione aggiuntiva, incluse copie dei codici EAN e documento d’identità, entro 5 giorni lavorativi dalla richiesta.",
-  "contatti": "rimborsopantenetrattamento@segreteriapromozioni.it"
+  "contatti": "rimborsopantenetrattamento@segreteriapromozioni.it",
   "categoria": "cura persona",
   "tag": ["pantene", "capelli", "trattamento", "balsamo", "cashback"]
   },
@@ -475,7 +475,7 @@
   "modalita_rimborso": "Bonifico su conto corrente italiano o su conto nell’area SEPA. Occorre indicare IBAN (non sono ammessi libretti postali). :contentReference[oaicite:5]{index=5}",
   "modalita_adesione": "Acquistare in un unico documento d’acquisto “parlante” almeno 1 sistema + 1 ricambio provvisti di sticker. Conservare il documento e le etichette. Entro 5 giorni di calendario dalla data di acquisto collegarsi al sito, registrarsi, inserire dati personali, caricare la scansione/foto leggibile del documento d’acquisto e delle etichette. Confermare la partecipazione cliccando il link ricevuto via email entro 24h. :contentReference[oaicite:6]{index=6}",
   "note": "Documento d’acquisto originale da conservare (non accettati duplicati, alterati, illegibili). Etichette/sticker devono essere integre e leggibili. Solo acquisti da rivenditori italiani. Ogni partecipante può richiedere un solo rimborso. Registrazioni multiple o frodi comportano esclusione. Conservare EAN, scontrino, etichette per eventuali controlli. :contentReference[oaicite:7]{index=7}",
-  "contatti": "Email: cbflexecatchvileda@segreteriapromozioni.it — Tel: 06 91810463. :contentReference[oaicite:8]{index=8}"
+  "contatti": "Email: cbflexecatchvileda@segreteriapromozioni.it — Tel: 06 91810463. :contentReference[oaicite:8]{index=8}",
   "categoria": "cura casa",
   "tag": ["vileda", "pulizia", "casa", "mop", "igiene"]
   },
@@ -491,7 +491,7 @@
   "modalita_rimborso": "Bonifico su conto corrente italiano o conto SEPA. Occorre indicare IBAN corretto. Non sono ammessi libretti postali. :contentReference[oaicite:6]{index=6}",
   "modalita_adesione": "1. Acquistare la combinazione valida (2 Ambipur + 1 Lenor) in un unico documento d'acquisto parlante. 2. Entro 15 giorni di calendario dalla data di acquisto registrarsi o accedere al sito, inserire dati anagrafici, codice fiscale, IBAN, caricare foto/scansione leggibile del documento d’acquisto. 3. Conservare l’originale del documento e attendere la verifica. :contentReference[oaicite:7]{index=7}",
   "note": "Documento d’acquisto originale, leggibile, integro, senza cancellazioni o alterazioni. Solo un rimborso per codice fiscale/IBAN. Conservare etichette/prodotti per eventuali controlli. Acquisti da rivenditori italiani. Registrazioni multiple o tentativi di frode comportano esclusione. :contentReference[oaicite:8]{index=8}",
-  "contatti": "Email: ambipurregalalenor@segreteriapromozioni.it — Tel: 06 91810424 (lun‑ven 09:00‑12:00 / 14:00‑17:00) :contentReference[oaicite:9]{index=9}"
+  "contatti": "Email: ambipurregalalenor@segreteriapromozioni.it — Tel: 06 91810424 (lun‑ven 09:00‑12:00 / 14:00‑17:00) :contentReference[oaicite:9]{index=9}",
   "categoria": "cura casa",
   "tag": ["ambipur", "lenor", "profumatore", "bucato", "cashback"]
   },
@@ -507,7 +507,7 @@
   "modalita_rimborso": "Bonifico bancario su conto corrente italiano o SEPA (il richiedente deve essere intestatario o cointestatario). In alternativa, carta ricaricabile dotata di IBAN (escluso PayPal). Il richiedente deve indicare IBAN e agenzia bancaria. Uno stesso IBAN può essere usato al massimo 1 volta. Non ammessi IBAN associati a libretti postali. Il rimborso viene erogato entro 150 giorni lavorativi dalla validazione della richiesta.",
   "modalita_adesione": "Entro 5 giorni di calendario dalla data di acquisto, scegliere una delle due modalità: (1) MODALITÀ WEB: collegarsi a www.premiaticonilmondodelpulito.it, registrarsi o fare login, inserire i propri dati anagrafici, codice fiscale ed e-mail, indicare le modalità di rimborso (IBAN), caricare la foto/scansione integrale e leggibile del documento d'acquisto parlante, verificare i dati e inviare. Entro 24 ore si riceve un'e-mail con link di conferma da cliccare entro 24 ore. (2) MODALITÀ WHATSAPP: inviare la foto del documento d'acquisto (max 2 MB) al numero 344.0853405 tramite WhatsApp (numero non schermato, operatore nazionale), seguire il link ricevuto in risposta, registrarsi e completare la procedura. Entro 24 ore si riceve un'e-mail con link di conferma da cliccare entro 24 ore.",
   "note": "Ogni consumatore può partecipare al massimo 1 volta durante l'intero periodo. Un solo codice fiscale per Destinatario (valido, usabile 1 volta). Un solo IBAN per tutto il periodo. Il documento d'acquisto deve essere originale, parlante, integro e leggibile, con data/ora compresa nel periodo dell'attività. La spesa minima di 10,00€ si calcola al netto di buoni sconto, gift card, tagli prezzo e promozioni. Non sono accettati documenti con resi. L'iniziativa non è cumulabile con altre promozioni sugli stessi prodotti. La Società può richiedere l'invio postale della documentazione originale (scontrino, EAN, copia documento d'identità e codice fiscale) entro 5 giorni lavorativi dalla richiesta, all'indirizzo: 'RADDOPPIA IL PULITO, DIMEZZA LA SPESA' c/o ICTlabs, Strada dei Confini 60, 05100 Terni. Conservare l'originale del documento d'acquisto e i codici a barre (EAN) dei prodotti. Registrazioni multiple con diversi indirizzi e-mail non sono consentite. Riservata a consumatori finali maggiorenni, residenti in Italia o Repubblica di San Marino; esclusi acquisti con P.IVA, rivenditori, dipendenti della Società.",
-  "contatti": "WhatsApp: 344.0853405 (per adesione tramite modalità WhatsApp). Indirizzo postale per documentazione: 'RADDOPPIA IL PULITO, DIMEZZA LA SPESA' c/o ICTlabs, Strada dei Confini 60, 05100 Terni."
+  "contatti": "WhatsApp: 344.0853405 (per adesione tramite modalità WhatsApp). Indirizzo postale per documentazione: 'RADDOPPIA IL PULITO, DIMEZZA LA SPESA' c/o ICTlabs, Strada dei Confini 60, 05100 Terni.",
   "categoria": "cura casa",
   "tag": ["chanteclair", "quasar", "detergenti", "pulizia", "casa"]
   },
@@ -523,7 +523,7 @@
   "modalita_rimborso": "Bonifico su conto corrente con IBAN (conto italiano o area SEPA).",
   "modalita_adesione": "Acquistare 1 prodotto Coccolino Botanical Perfume valido in un punto vendita aderente e conservare lo scontrino parlante. Entro 7 giorni dall’acquisto registrarsi sul sito ufficiale, inserire i dati richiesti (anagrafici e IBAN) e caricare la foto/scansione dello scontrino per richiedere il rimborso.",
   "note": "Un solo rimborso per persona (codice fiscale/IBAN) durante tutta l’iniziativa. Il rimborso è calcolato sull’importo effettivamente pagato (al netto di sconti). Documento d’acquisto obbligatoriamente integro, leggibile e parlante. Non sono validi acquisti online. Non cumulabile con altre promozioni sugli stessi prodotti. È necessario conservare lo scontrino originale per eventuali controlli. :contentReference[oaicite:0]{index=0}",
-  "contatti": "Email: info@coccolinobotanicalperfumeprovamigratis.it — Numero verde: 800.800.121"
+  "contatti": "Email: info@coccolinobotanicalperfumeprovamigratis.it — Numero verde: 800.800.121",
   "categoria": "cura casa",
   "tag": ["coccolino", "bucato", "ammorbidente", "profumo", "cashback"]
 },
@@ -539,7 +539,7 @@
   "modalita_rimborso": "Bonifico su conto corrente con IBAN (Italia o area SEPA).",
   "modalita_adesione": "Acquistare in un unico scontrino almeno 1 diffusore Armonia Istantanea e 1 altro prodotto Air Wick. Entro 5 giorni registrarsi sul sito dedicato, inserire i dati richiesti (anagrafici e IBAN) e caricare la foto/scansione dello scontrino parlante per richiedere il rimborso.",
   "note": "Un solo rimborso per persona (codice fiscale/IBAN) per tutta la durata dell’iniziativa. Lo scontrino deve essere unico, integro, leggibile e riportare chiaramente i prodotti acquistati. Il rimborso è calcolato sull’importo effettivamente pagato (al netto di eventuali sconti). Non sono validi acquisti online o tra privati. Ogni scontrino può essere utilizzato una sola volta. È necessario conservare lo scontrino originale per eventuali controlli. In caso di dati errati, incompleti o invio oltre i termini, la richiesta viene rifiutata. :contentReference[oaicite:0]{index=0}",
-  "contatti": "Email: airwickrimborsoaes@segreteriapromozioni.it"
+  "contatti": "Email: airwickrimborsoaes@segreteriapromozioni.it",
   "categoria": "cura casa",
   "tag": ["airwick", "profumatore", "ambiente", "casa", "cashback"]
 },
@@ -555,7 +555,7 @@
   "modalita_rimborso": "Bonifico su conto corrente italiano o SEPA. Obbligatorio indicare IBAN corretto (non ammessi libretti postali). Per richiedere il rimborso: https://promozioni.pgperte.it/2026_0220p_procter_cb_ambipur_01042026_30092026/",
   "modalita_adesione": "Acquistare 1 prodotto Ambipur Essenze d’Italia in un punto vendita aderente. Entro 7 giorni dalla data di acquisto registrarsi/accedere al sito, inserire i dati personali e IBAN e caricare la foto/scansione leggibile del Documento d’Acquisto parlante.",
   "note": "Un solo rimborso per partecipante e per IBAN. Documento d’acquisto obbligatoriamente integro, leggibile e non alterato. Non sono validi acquisti online o tra privati. È necessario conservare lo scontrino originale per eventuali controlli. Partecipazioni multiple o sospette comportano esclusione. Rimborso erogato dopo verifica dei dati.",
-  "contatti": "Email: ambipurrimborsaessenze@segreteriapromozioni.it – Tel: 06 91810424 (lun-ven 9:00-12:00 / 14:00-17:00)"
+  "contatti": "Email: ambipurrimborsaessenze@segreteriapromozioni.it – Tel: 06 91810424 (lun-ven 9:00-12:00 / 14:00-17:00)",
   "categoria": "cura casa",
   "tag": ["ambipur", "profumatore", "ambiente", "italia", "cashback"]
   }
