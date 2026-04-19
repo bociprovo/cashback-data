@@ -34,7 +34,7 @@
   {
   "id": "mixa_cashback_50_novita_2026",
   "title": "Mixa - Ti rimborsiamo il 50% sulle novità",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/mixa.png",
   "link": "https://edge.sitecorecloud.io/lorealsa1c256-xm25ad5-productionb397-e07a/media/feature/mbfv2/mixa-it/aboutmixa/termini-e-condizioni-acquista-una-novit-mixa-ti-rimborsiamo-il-50.pdf",
   "dove_comprare": "Punti vendita fisici ed e-commerce aderenti in Italia. L’elenco completo dei punti vendita è consultabile nel regolamento.",
   "articoli_coinvolti": "Prodotti Mixa novità selezionati (come indicato nel regolamento ufficiale).",
@@ -82,7 +82,7 @@
   {
     "id": "natural_trainer_provami_gratis_2026",
     "title": "Natural Trainer – Provami Gratis",
-    "image": "https://naturaltrainerprovamigratis.it/assets/img/home.jpg",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/natural%20trainer.jpg",
     "link": "https://naturaltrainerprovamigratis.it/",
     "dove_comprare": "Punti vendita fisici petshop in Italia che espongono il materiale promozionale dell’iniziativa. Sono esclusi acquisti online.",
     "articoli_coinvolti": "Prodotti della linea Selected Quality Nutrition (SQN) per cani con bollino promozionale “PROVAMI GRATIS”, tra cui: NT DOG SQN AD Mini Turkey 0,6 Kg (EAN 8410650604701), NT DOG SQN AD Mini White fish 0,6 Kg (EAN 8410650604725), NT DOG SQN AD Mini Turkey 1,5 Kg (EAN 8410650604718), NT DOG SQN AD Mini White fish 1,5 Kg (EAN 8410650604732), NT DOG SQN Puppy Mini Chicken 1,5 Kg (EAN 8410650604770), NT DOG SQN AD M/M Turkey 2,5 Kg (EAN 8410650604749), NT DOG SQN AD M/M White Fish 2,5 Kg (EAN 8410650604756), NT DOG SQN Puppy M/M Chicken 2,5 Kg (EAN 8410650604794). Tutti i prodotti devono riportare lo sticker promozionale.",
@@ -98,7 +98,7 @@
   {
     "id": "cif_provalo_gratis_2026",
     "title": "CIF Provalo Gratis - Cashback Infinite Clean",
-    "image": "https://www.cifprovalogratis.it/assets/img/home.jpg",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/cif.jpg",
     "link": "https://cifprovalogratis.it/",
     "dove_comprare": "Punti vendita fisici in Italia che espongono il materiale promozionale e negozi online italiani che emettono scontrino parlante. Sono esclusi acquisti su siti esteri o rivenditori non italiani.",
     "articoli_coinvolti": "Prodotti CIF Infinite Clean: CIF INFINITE CLEAN 280ml (varie fragranze: Lime e Fiori Bianchi, Fiori di Loto e Sali Minerali, Lavanda Eucalipto, Limone e Aloe Vera, Mela e Gelsomino), CIF Infinite Clean Reload 590ml (varianti corrispondenti), e Starter Kit 870ml. Tutti i prodotti devono essere originali Unilever Italia Mkt Operations S.r.l.",
@@ -114,7 +114,7 @@
   {
     "id": "ace_spray_cashback_2026",
     "title": "ACE Spray 100% Provami Gratis 2026",
-    "image": "https://www.provamigratis.ace.it/acespray/assets/img/home_desktop.jpg",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/acespray.jpg",
     "link": "https://www.provamigratis.ace.it/acespray/",
     "dove_comprare": "Punti vendita fisici della GDO, supermercati, ipermercati, discount e drugstore in Italia, Repubblica di San Marino e Città del Vaticano che espongono il materiale promozionale. Validi anche acquisti su Amazon.it e e-commerce di rivenditori italiani che emettono scontrino parlante. Sono esclusi siti esteri e marketplace non autorizzati.",
     "articoli_coinvolti": "ACE Spray Sgrassatore Universale nelle varianti Lavanda, Marsiglia, Lime e Menta Piperita e Cucina, esclusivamente con sticker promozionale “100% Provami Gratis – ACE Spray”. Sono esclusi formati multipack o bundle.",
@@ -130,7 +130,7 @@
   {
     "id": "ricrescita_2026",
     "title": "Garnier Ricrescita 2026 - Cashback + Concorso",
-    "image": "https://www.garnier.it/-/media/project/loreal/brand-sites/garnier/emea/it/concorsi/ricrescita-2026.jpg",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/garnier%20ricrescita.jpeg",
     "link": "https://www.scontomaggio.com/wp-content/uploads/2026/03/termini-condizioni-ricrescita-2026.pdf",
     "dove_comprare": "Punti vendita fisici della GDO, supermercati, ipermercati, drugstore e e-commerce italiani che emettono documento fiscale parlante. Sono esclusi acquisti effettuati su marketplace non autorizzati o siti esteri.",
     "articoli_coinvolti": "Prodotti della gamma Garnier Fructis e/o trattamenti per la ricrescita capelli indicati nell’elenco EAN del regolamento ufficiale. Sono validi solo prodotti nuovi e originali L’Oréal Italia.",
@@ -162,7 +162,7 @@
   {
     "id": "tampax_cashmeback_2026",
     "title": "Tampax Cash me Back + Concorso 2026",
-    "image": "https://www.cashback-concorsi-tampax.it/assets/img/head_cb.png",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/tampax.png",
     "link": "https://www.cashback-concorsi-tampax.it/index.php",
     "dove_comprare": "Punti vendita fisici della GDO, supermercati, ipermercati e drugstore in Italia e Repubblica di San Marino che espongono il materiale promozionale. Acquisti validi solo presso negozi aderenti.",
     "articoli_coinvolti": "Prodotti Tampax (qualsiasi linea, formato e livello di assorbenza). Le confezioni Tampax sono considerate come un unico prodotto indipendentemente dal numero di assorbenti contenuti.",
@@ -178,7 +178,7 @@
   {
     "id": "spendieri_prendi_te_napants_2026",
     "title": "Spendi e Riprendi Te Napants Cashback 2026",
-    "image": "https://spendieriprenditenapants.it/assets/img/text-box.png",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/tena.png",
     "link": "https://spendieriprenditenapants.it/",
     "dove_comprare": "Punti vendita fisici della GDO, supermercati, ipermercati, discount e drugstore in Italia, Repubblica di San Marino e Città del Vaticano che espongono il materiale promozionale. Validi anche acquisti online su Amazon.it e su e-commerce di rivenditori italiani con emissione di documento fiscale. Sono esclusi siti esteri e marketplace non autorizzati.",
     "articoli_coinvolti": "Prodotti del brand partecipante indicati nel regolamento ufficiale dell’iniziativa Spendi e Riprendi Te Napants (varia per categoria e formato secondo elenco EAN allegato al regolamento).",
@@ -210,7 +210,7 @@
   {
     "id": "parodontax_collutorio_cashback_2026",
     "title": "Parodontax Ti Rimborsa il Collutorio - Cashback Edizione 2026",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/paradontax.jpg",
     "link": "https://www.parodontax.it/content/dam/cf-consumer-healthcare/paradontax/it_IT/G00Homepage/regolamento-pdx-cashback.pdf",
     "dove_comprare": "Punti vendita fisici della Grande Distribuzione Organizzata (GDO) e drugstore aderenti in Italia, Repubblica di San Marino e Città del Vaticano che espongono materiale promozionale.",
     "articoli_coinvolti": "Prodotti Parodontax inclusi nel regolamento (collutori, dentifrici e spazzolini Parodontax).",
@@ -226,7 +226,7 @@
   {
     "id": "palette_intensive_color_creme_cashback_2026",
     "title": "100% Rimborsato Palette Intensive Color Creme",
-    "image": "https://concorsi.donnad.it/brand/donnad/100-rimborsato-palette-intensive-color-creme/cover-wide.png?v=1774516682",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/palette.png",
     "link": "https://concorsi.donnad.it/concorso/100-rimborsato-palette-intensive-color-creme",
     "dove_comprare": "Punti vendita fisici in Italia e Repubblica di San Marino. Sono ammessi anche e-commerce di insegne con punti vendita fisici.",
     "articoli_coinvolti": "Tutti i prodotti a marchio Palette Intensive Color Creme (colorazioni per capelli Henkel).",
@@ -242,7 +242,7 @@
   {
     "id": "perlana_50_anniversario_cashback_2026",
     "title": "Perlana 50° Anniversario - Cashback e Concorso",
-    "image": "https://concorsi.donnad.it/brand/donnad/50-anniversario-perlana/cover-wide.png?v=1774516682",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/perlana.png",
     "link": "https://concorsi.donnad.it/concorso/50-anniversario-perlana",
     "dove_comprare": "Punti vendita fisici in Italia e Repubblica di San Marino e e-commerce di rivenditori italiani.",
     "articoli_coinvolti": "Prodotti Perlana Henkel.",
@@ -258,7 +258,7 @@
   {
     "id": "chilly_deo_intimo_cashback_2026",
     "title": "Chilly Ti Rimborsa il Deo Intimo 2026",
-    "image": "https://labellezzatipremia.it/chillytirimborsa2026/assets/img/index.jpg",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/chilli.jpg",
     "link": "https://labellezzatipremia.it/chillytirimborsa2026/",
     "dove_comprare": "Drugstore e e-commerce italiani aderenti.",
     "articoli_coinvolti": "Prodotti Chilly.",
@@ -274,7 +274,7 @@
   {
     "id": "borotalco_bagnodoccia_cashback_2026",
     "title": "Borotalco Ti Rimborsa il Bagnodoccia",
-    "image": "https://labellezzatipremia.it/borotalcotirimborsa/assets/img/product.png",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/borotalco.png",
     "link": "https://labellezzatipremia.it/borotalcotirimborsa/",
     "dove_comprare": "Punti vendita fisici e e-commerce italiani aderenti.",
     "articoli_coinvolti": "Bagnodoccia Borotalco 500ml.",
@@ -306,7 +306,7 @@
   {
     "id": "ultima_piacealoroconvieneate_2026",
     "title": "Ultima Cat & Dog - Piace a loro, conviene a te!",
-    "image": "https://www.piacealoroconvieneate.it/assets/img/home.jpg",
+    "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/ultima%20cat.jpg",
     "link": "https://www.piacealoroconvieneate.it/",
     "dove_comprare": "GDO e e-commerce aderenti.",
     "articoli_coinvolti": "Prodotti Ultima Cat e Dog Mini.",
@@ -322,7 +322,7 @@
   {
     "id": "raid_trappola_insetti_volanti_cashback_2026",
     "title": "Raid Trappola Insetti Volanti - Rimborso 100% Base",
-    "image": "https://www.cashbacktrappolainsettivolanti.it/assets/img/home.jpg",
+    "image": "hhttps://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/raid.jpg",
     "link": "https://www.cashbacktrappolainsettivolanti.it/",
     "dove_comprare": "GDO e e-commerce italiani aderenti.",
     "articoli_coinvolti": "Raid Essentials Trappola Insetti Volanti.",
@@ -338,7 +338,7 @@
   {
   "id": "danone_skyr_cashback_da_urlo_2026",
   "title": "Danone Skyr - Cashback da Urlo 2026",
-  "image": "https://concorsi.vividanone.it/cashback-da-urlo-2026/_common/images/skyr-visual-desktop.jpg",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/danone%20skyr.jpg",
   "link": "https://concorsi.vividanone.it/cashback-da-urlo-2026/",
   "dove_comprare": "Punti vendita fisici del canale moderno in Italia e Repubblica di San Marino (ipermercati, supermercati, superette e discount).",
   "articoli_coinvolti": "Danone Skyr formato 1x150g, in tutti i gusti disponibili. È necessario acquistare almeno 2 confezioni nello stesso scontrino.",
@@ -386,7 +386,7 @@
   {
   "id": "vileda_flexcatch_cashback_2025",
   "title": "Vileda Flex&Catch Cashback",
-  "image": "https://www.cbflexecatch.vileda.it/img/header_home.jpg",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/vileda%20flex.jpg",
   "link": "https://www.cbflexecatch.vileda.it",
   "dove_comprare": "Punti vendita fisici in Italia (GDO, drugstore, fai‑da‑te) e acquisti online solo da rivenditori italiani che emettono ricevuta fiscale. Acquisto valido solo se i prodotti riportano lo sticker promozionale. :contentReference[oaicite:1]{index=1}",
   "articoli_coinvolti": "Prodotto A (sistema): 1) FLEX&CATCH Sistema manico lungo + 1 ricambio (EAN 4023103257146) 2) FLEX&CATCH Sistema manico corto + 2 ricambi (EAN 4023103257122). Prodotto B (ricambio): 3) FLEX&CATCH Ricambi 5pz (EAN 4023103252509) 4) FLEX&CATCH Ricambi 10pz (EAN 4023103252486). Tutti i prodotti devono riportare lo sticker dell’iniziativa. :contentReference[oaicite:2]{index=2}",
@@ -418,7 +418,7 @@
   {
   "id": "cb_mnw0i4qx_1cot",
   "title": "Chanteclair/Quasar – Raddoppia il Pulito, Dimezza la Spesa",
-  "image": "https://premiaticonilmondodelpulito.it/raddoppiailpulitodimezzalaspesa/assets/img/home.jpg",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/chanteclair%20quasar.jpg",
   "link": "https://www.premiaticonilmondodelpulito.it",
   "dove_comprare": "Punti vendita fisici in Italia e Repubblica di San Marino che hanno nel loro assortimento i prodotti in promozione (riconoscibili tramite spazio pubblicitario nel volantino o nel punto vendita) e relativi siti di e-commerce ufficiali. Sono ESCLUSI: acquisti su siti esteri o che rivendano prodotti di provenienza estera; acquisti su siti e-commerce non afferenti ai punti vendita fisici ammessi (es. Amazon, Privalia, Groupon, eBay).",
   "articoli_coinvolti": "Tutti i prodotti a marchio CHANTECLAIR, QUASAR e CHANTECLAIR VERT. Inclusi i prodotti SPUMA DI SCIAMPAGNA della linea detergenza nelle seguenti categorie: Lavatrice liquidi, Lavatrici polvere, Profumatori, Foglietti, Ammorbidenti Concentrato, Ammorbidenti Diluiti, Bucato e Capi Delicati, Additivi e Sapone solido.",
@@ -434,7 +434,7 @@
   {
   "id": "coccolino_botanical_perfume_2026",
   "title": "Coccolino Botanical Perfume Provami Gratis",
-  "image": "https://coccolinobotanicalperfumeprovamigratis.it/assets/img/home_desktop.jpg",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/coccolino.jpg",
   "link": "https://coccolinobotanicalperfumeprovamigratis.it/",
   "dove_comprare": "Punti vendita fisici in Italia che espongono il materiale promozionale. Non sono validi gli acquisti online.",
   "articoli_coinvolti": "Prodotti Coccolino Botanical Perfume (ammorbidenti e profumi per bucato), tra cui diverse varianti Elixir da 342 ml, formati XL e ammorbidenti da 750 ml con specifici codici EAN indicati nel regolamento.",
@@ -450,7 +450,7 @@
   {
   "id": "airwick_armonia_istantanea_2026",
   "title": "Air Wick Rimborso Armonia Istantanea",
-  "image": "https://rimborsoarmoniaistantanea.airwick.it/assets/img/home.png",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/air%20wik.png",
   "link": "https://rimborsoarmoniaistantanea.airwick.it/",
   "dove_comprare": "Punti vendita fisici Acqua & Sapone e La Saponeria aderenti in Italia che espongono il materiale promozionale. Sono esclusi gli acquisti online.",
   "articoli_coinvolti": "1 diffusore Air Wick Armonia Istantanea + 1 altro prodotto Air Wick a scelta acquistati nello stesso scontrino.",
