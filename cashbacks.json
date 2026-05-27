@@ -1,5 +1,37 @@
 [
   {
+  "id": "autan_dopopuntura_rimborsato_2026",
+  "title": "Autan – Dopopuntura Rimborsato al 100%",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/autan.jpg",
+  "link": "https://www.autandopopunturarimborsato.it",
+  "dove_comprare": "GDO (supermercati, ipermercati), drugstore e relativi e-commerce in Italia che espongono il materiale pubblicitario. Esclusi e-commerce non collegati a punti vendita fisici e acquisti con P.IVA.",
+  "articoli_coinvolti": "Acquisto obbligatorio di entrambi i prodotti con unico scontrino parlante:\n- Autan Family Care Lotion 100ml – repellente (EAN 8002030142318)\n- Autan Gel Aloe Vera & Camomile 25ml – dopopuntura (EAN 5000204647006)\n\nNon validi acquisti in cui uno dei 2 prodotti risulti in omaggio (es. promozioni 2x1 o 1+1 del punto vendita).",
+  "periodo_validita": "Dal 01/04/2026 al 30/09/2026. Richiesta rimborso entro 5 giorni di calendario dalla data di acquisto.",
+  "valore_rimborso": "Rimborso del 100% dell'importo pagato per il dopopuntura Autan Gel Aloe Vera & Camomile 25ml, fino a un massimo di 7,05€. Un solo rimborso per partecipante. Non validi acquisti effettuati con buoni sconto, gift card o buoni pasto.",
+  "modalita_rimborso": "Bonifico bancario o carta ricaricabile con IBAN (escluso PayPal) su conto SEPA intestato al partecipante. L'IBAN può essere usato una sola volta. Rimborso erogato entro 150 giorni dalla validazione della partecipazione.",
+  "modalita_adesione": "Acquistare entrambi i prodotti Autan con scontrino parlante ed entro 5 giorni dall'acquisto registrarsi su https://www.autandopopunturarimborsato.it, inserire i dati anagrafici, codice fiscale e IBAN, caricare la foto integra e leggibile dello scontrino e confermare la partecipazione entro 24 ore tramite il link ricevuto via email.",
+  "note": "Un solo rimborso per partecipante, per codice fiscale e per IBAN. Lo scontrino deve riportare esplicitamente i nomi di entrambi i prodotti (non solo il reparto). Conservare lo scontrino originale e i codici EAN delle confezioni. La mancata conferma via email entro 24 ore comporta la perdita del diritto al rimborso. Non cumulabile con altre iniziative sugli stessi prodotti.",
+  "contatti": "Sito: https://www.autandopopunturarimborsato.it — Email: info@autandopopunturarimborsato.it — Indirizzo postale (se richiesto): \"Autan Dopopuntura Rimborsato\" c/o ICTlabs, Strada dei Confini 60, 05100 Terni",
+  "categoria": "Cura persona",
+  "tag": "autan, repellente, antizanzare, dopopuntura, punture insetti, estate, sc johnson, cashback, rimborso, zanzare, 2026"
+},
+  {
+  "id": "langelica_cashback_45_percento_2026",
+  "title": "L'Angelica – Cashback 45% su Tisane, Integratori e Waterstick",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/angelica.png",
+  "link": "https://www.angelica45cashback.it",
+  "dove_comprare": "Punti vendita fisici autorizzati in Italia e Repubblica di San Marino. Esclusi tutti gli acquisti online.",
+  "articoli_coinvolti": "Almeno 2 prodotti a marchio L'Angelica acquistati con unico scontrino parlante. La gamma coinvolta include tisane, infusi, integratori e waterstick. La lista completa supera i 30 articoli: consultare il regolamento su https://www.angelica45cashback.it. Nota: alcuni prodotti sono disponibili solo su Esselunga (es. Tiglio, Menta, Malva, Tisana Giusta Regola) e altri solo su Lidl (es. linea Tisana Basic).",
+  "periodo_validita": "Dal 20/05/2026 al 30/06/2026. Richiesta rimborso entro 15 giorni di calendario dalla data di acquisto.",
+  "valore_rimborso": "Rimborso del 45% dell'importo speso per i 2 prodotti L'Angelica acquistati. Un solo rimborso per partecipante per tutta la durata dell'iniziativa.",
+  "modalita_rimborso": "Bonifico bancario o carta ricaricabile con IBAN italiano (escluso PayPal) su conto presso banca UE, intestato al partecipante. L'IBAN può essere usato una sola volta. Rimborso erogato entro 60 giorni dalla validazione.",
+  "modalita_adesione": "Entro 15 giorni dall'acquisto registrarsi su https://www.angelica45cashback.it e inserire:\n1. Dati personali e codice fiscale\n2. IBAN e agenzia di appoggio\n3. Dati dello scontrino: data, ora, numero documento (senza trattini, es. 07580841), importo totale\n4. Foto integra e leggibile dello scontrino parlante (fronte e retro se necessario)",
+  "note": "Un solo rimborso per partecipante, per codice fiscale e per IBAN. Lo scontrino deve riportare chiaramente i nomi dei prodotti L'Angelica (non solo il reparto). Conservare lo scontrino originale e i codici EAN almeno fino al 30/09/2027. Non è possibile modificare i dati dopo l'invio della richiesta. Non cumulabile con altre iniziative sugli stessi prodotti.",
+  "contatti": "Sito: https://www.angelica45cashback.it — Indirizzo postale (se richiesto): \"Cash Back L'Angelica 45%\" c/o Sdm s.b. srl, via Ariberto 24, 20123 Milano",
+  "categoria": "Cibo e bevande",
+  "tag": "langelica, tisana, infuso, integratore, waterstick, erbe, benessere, coswell, cashback, rimborso, melatonina, drenante, 2026"
+},
+  {
   "id": "suzi_wan_cashback_5_euro_2026",
   "title": "Suzi Wan – A Cena con Suzi Wan: 5€ di Rimborso",
   "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/suzi%20one.png",
