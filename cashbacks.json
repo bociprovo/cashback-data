@@ -1,5 +1,21 @@
 [
   {
+  "id": "scotti_provami_gratis_2026",
+  "title": "Scotti Provami Gratis",
+  "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/scogtgs.png",
+  "link": "https://www.scottiprovamigratis.it",
+  "dove_comprare": "Punti vendita fisici della Grande Distribuzione Organizzata (GDO) e punti vendita fisici Autogrill presenti in Italia. Sono esclusi gli acquisti online.",
+  "articoli_coinvolti": "Prodotti della linea 'Gusto in Libertà' Riso Scotti che riportano sulla confezione il bollino promozionale 'PROVAMI GRATIS'. Sono esclusi i formati bipacco e multipacco.",
+  "periodo_validita": "Dal 01/06/2026 al 30/11/2026. Richiesta rimborso entro 5 giorni di calendario dalla data di acquisto.",
+  "valore_rimborso": "Rimborso del prezzo pagato per 1 prodotto aderente fino a un massimo di 2,69€. Un solo rimborso per partecipante.",
+  "modalita_rimborso": "Bonifico bancario su IBAN intestato o cointestato al partecipante. Rimborso entro 150 giorni dalla validazione della pratica.",
+  "modalita_adesione": "Acquistare 1 prodotto aderente con scontrino parlante. Entro 5 giorni dall'acquisto registrarsi sul sito https://www.scottiprovamigratis.it , inserire i dati richiesti, caricare la foto del prodotto con il bollino 'PROVAMI GRATIS', caricare lo scontrino parlante completo e confermare la partecipazione tramite il link ricevuto via email entro 24 ore.",
+  "note": "Partecipazione consentita solo a maggiorenni residenti in Italia o Repubblica di San Marino. Esclusi possessori di partita IVA, rivenditori e distributori. Un solo rimborso per codice fiscale e per IBAN. È obbligatorio conservare lo scontrino originale e i codici a barre (EAN) ritagliati dalla confezione per eventuali verifiche. Lo scontrino deve essere parlante, integro e leggibile. Non validi documenti alterati, duplicati, non originali o contenenti resi. In presenza di sconti o promozioni sarà rimborsato l'importo effettivamente pagato. In caso di acquisto di più prodotti aderenti nello stesso scontrino verrà rimborsato il prodotto con valore maggiore fino al limite previsto.",
+  "contatti": "Email: info@scottiprovamigratis.it | Sito: https://www.scottiprovamigratis.it",
+  "categoria": "Cibo e bevande",
+  "tag": "riso scotti, scotti, provami gratis, cashback, gusto in liberta, alimentari, rimborso, gdo, autogrill, 2026"
+},
+  {
   "id": "scj_risparmia_cashback_2026",
   "title": "Raid, Autan, Baygon, Off! – Risparmia con SCJ: 50% di Rimborso",
   "image": "https://raw.githubusercontent.com/bociprovo/cashback-data/refs/heads/main/img/autan2.jpg",
